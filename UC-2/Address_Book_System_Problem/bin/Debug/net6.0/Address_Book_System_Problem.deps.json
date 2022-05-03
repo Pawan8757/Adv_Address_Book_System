@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Address_Book_System_Problem/1.0.0": {
+        "runtime": {
+          "Address_Book_System_Problem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Address_Book_System_Problem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
