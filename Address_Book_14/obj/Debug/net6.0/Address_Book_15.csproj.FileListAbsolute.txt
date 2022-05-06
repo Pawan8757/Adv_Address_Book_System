@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\Address_Book_15\Address_Book_15\obj\Debug\net6.0\Address_Book_15.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Address_Book_15\Address_Book_15\obj\Debug\net6.0\Address_Book_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Address_Book_15\Address_Book_15\obj\Debug\net6.0\Address_Book_15.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Address_Book_15\Address_Book_15\obj\Debug\net6.0\Address_Book_15.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Address_Book_15\Address_Book_15\obj\Debug\net6.0\Address_Book_15.csproj.CoreCompileInputs.cache
